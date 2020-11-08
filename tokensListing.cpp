@@ -6,11 +6,6 @@
 #include <list>
 #include <vector>
 #include <string>
-
-/*
- * CS280 - Fall 2020
- */
-
 #include <cctype>
 #include <map>
 
