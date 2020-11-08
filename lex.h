@@ -1,9 +1,3 @@
-/*
- * lex.h
- *
- * CS280
- * Fall 2020
- */
 #ifndef LEX_H_
 #define LEX_H_
 
